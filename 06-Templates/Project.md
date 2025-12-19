@@ -1,0 +1,10 @@
+# {{title}}
+
+## Goal
+- 
+
+## Tasks
+- [ ] 
+
+## Notes
+-
