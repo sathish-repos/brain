@@ -1,10 +1,3 @@
-Below is a **production-quality `README.md`** you can place at the **root of your Obsidian vault**.  
-It documents **folder structure**, **daily usage**, and a **clear Markdown symbols cheat sheet**—concise, practical, and beginner-friendly.
-
-You can copy-paste this directly.
-
----
-
 # Second-Brain – Obsidian Vault
 
 A clean, scalable **personal knowledge management (PKM)** vault built for:
@@ -349,5 +342,3 @@ public class Example {
     
 - Simplicity > complexity
     
-
----
