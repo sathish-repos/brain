@@ -3,13 +3,9 @@
 A clean, scalable **personal knowledge management (PKM)** vault built for:
 
 - Daily thinking
-    
 - Long-term learning
-    
 - Projects & areas
-    
 - Git + mobile sync
-    
 
 This vault is intentionally **simple**, **numbered**, and **future-proof**.
 
@@ -54,11 +50,8 @@ Second-Brain/
 ### `00-Inbox`
 
 - Fast capture
-    
 - No structure
-    
 - Process later
-    
 
 **Rule:** Nothing stays here long-term.
 
@@ -67,11 +60,8 @@ Second-Brain/
 ### `01-Daily`
 
 - One note per day
-    
 - Tasks, focus, reflection
-    
 - Links out to notes and projects
-    
 
 **Rule:** Daily notes are temporary context.
 
@@ -82,20 +72,14 @@ Second-Brain/
 #### `Fleeting/`
 
 - Rough ideas
-    
 - Half-formed thoughts
-    
 - Short-lived
-    
 
 #### `Permanent/`
 
 - One idea per note
-    
 - Clearly explained
-    
 - Linked to other notes
-    
 
 **Rule:** Permanent notes must stand alone.
 
@@ -106,60 +90,44 @@ Second-Brain/
 #### `Active/`
 
 - Goal-oriented work
-    
 - Has tasks
-    
 - Has an end
-    
 
 #### `Archived/`
 
 - Finished or paused projects
-    
 
 ---
 
 ### `04-Areas`
 
 - Ongoing responsibilities
-    
 - Never “done”
-    
 - Examples: Career, Health, Finance
-    
 
 ---
 
 ### `05-Resources`
 
 - External knowledge
-    
 - Books, articles, videos
-    
 - Always link resources to notes
-    
 
 ---
 
 ### `06-Templates`
 
 - Reusable note structures
-    
 - Daily, Note, Project templates
-    
 - Keep minimal
-    
 
 ---
 
 ### `07-Canvas`
 
 - Visual thinking
-    
 - System design
-    
 - Learning maps
-    
 
 **Rule:** Canvas connects ideas; Notes explain them.
 
@@ -168,35 +136,25 @@ Second-Brain/
 ### `08-Attachments`
 
 - Images, PDFs, diagrams
-    
 - Git-safe storage
-    
 
 ---
 
 ### `99-Archive`
 
 - Old notes
-    
 - Inactive content
-    
 - Keeps vault clean
-    
 
 ---
 
 ## Daily Workflow (Recommended)
 
 1. Capture ideas → **Inbox**
-    
 2. Write daily note → **Daily**
-    
 3. Convert useful ideas → **Notes**
-    
 4. Track work → **Projects**
-    
 5. Review weekly → **Archive / Promote**
-    
 
 ---
 
@@ -274,16 +232,10 @@ Inline:
 ```
 
 Block:
-
-````md
 ```java
 public class Example {
 }
-````
-
-````
-
----
+```
 
 ### Quotes
 ```md
@@ -322,23 +274,15 @@ public class Example {
 ## Git & Sync Notes
 
 - This vault is Git-ready
-    
 - `.obsidian/workspace.json` is ignored
-    
 - Commit once per day
-    
 - Pull before editing on another device
-    
 
 ---
 
 ## Guiding Principles
 
 - One idea per note
-    
 - Link more than you write
-    
 - Folders are for **where**, links are for **meaning**
-    
 - Simplicity > complexity
-    
